@@ -28,7 +28,9 @@ sudo apt install vim
 sudo apt install wget                                                                                                              
 sudo apt install git                                                                                         
 sudo apt install snapd                
-sudo apt install tmux                                                                          
+sudo apt install tmux
+sudo apt install firefox
+sudo snap install chromium                                                                   
 echo "installation has finished!"                                                                             
                                                                                                                            
                                                                                                                           
